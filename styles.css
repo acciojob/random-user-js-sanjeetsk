@@ -1,2 +1,31 @@
 
 /* Your CSS Code here. */
+
+#container{
+    margin: 40px;
+    padding: 40px;
+}
+
+#imag{
+    width: 300px;
+    height: 300px;
+}
+
+#name{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+#additionalInfo{
+    font-size: 15px;
+    padding: 10px;
+}
+
+#btn{
+    padding: 10px;
+}
+
+button{
+    font-size: large;
+}
