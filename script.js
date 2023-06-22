@@ -3,7 +3,7 @@ const imag = document.getElementById('imag');
 const nam = document.getElementById('name');
 const message = document.getElementById('additionalInfo');
 const buttons = document.querySelectorAll('button[data-attr]')
-const refresh = document.getElementById('refresh');
+const refresh = document.getElementById('getUser');
 
 refresh.addEventListener('click', () => {
     location.reload();
